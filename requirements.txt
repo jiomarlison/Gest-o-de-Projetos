@@ -1,3 +1,4 @@
 flet>=0.22.1
 pillow>=10.3.0
 opencv-python>=4.9.0.80
+PyInstaller>=6.7.0
