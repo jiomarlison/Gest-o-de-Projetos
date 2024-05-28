@@ -14,7 +14,7 @@ install:
 - pip install -r requirements.txt
 
 build_script:
-- flet pack main.py --name counter --icon assets/icon.png --product-name BM-FACE --product-version "0.0.1" --copyright "Copyright (c) 2022 Jiomarlison Dias Souza."
+- flet pack main.py --name BM-FACE --icon assets/icon.png --product-name BM-FACE --product-version "0.0.1" --copyright "Copyright (c) 2022 Jiomarlison Dias Souza."
 
 test: off
 
